@@ -30,7 +30,6 @@ public class Q_10811 {
 
 }// public class end
 
-
 		
 //		for(int a=0;a<baguni.length;a++) {
 //			System.out.println(baguni[a]);
